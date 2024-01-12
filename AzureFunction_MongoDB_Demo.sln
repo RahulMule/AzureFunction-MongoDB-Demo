@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunction_MongoDB_Demo", "AzureFunction_MongoDB_Demo\AzureFunction_MongoDB_Demo.csproj", "{B55A6AA4-7FAC-47C7-A040-CA32F0BFB567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55A6AA4-7FAC-47C7-A040-CA32F0BFB567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55A6AA4-7FAC-47C7-A040-CA32F0BFB567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55A6AA4-7FAC-47C7-A040-CA32F0BFB567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55A6AA4-7FAC-47C7-A040-CA32F0BFB567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {731F321B-A1C0-4C05-9035-0B8315572F1A}
+	EndGlobalSection
+EndGlobal
